@@ -7,11 +7,13 @@ You are encouraged to talk through the exercise, communicate your decisions as y
 Instructions:
 
 - **First task**: Create a product catalog using the provided json and mockup as visual guide
+  
     ![Image1](https://github.com/camilopv19/number8codingtest/blob/main/1-ProductListMockup.png?raw=true "Image1")
 - **Second task**: Add a new page (preferably) or modal to display product details, see mockup as visual guide.
     ![Image2](https://github.com/camilopv19/number8codingtest/blob/main/2-ProductDetailMockup.png?raw=true "Image2")
 - **Third Task**: When the “Add to Cart” button is clicked a successful message should be displayed, see mockup as visual guide
-    ![Image3](https://github.com/camilopv19/number8codingtest/blob/main/3-ProductDetailMockupConfirmationMessage.png?raw=true "Image3")
+  
+    ![Image3](./visuals/3-ProductDetailMockupConfirmationMessage.png?raw=true "Image3")
 
 ```sh
 npm install
