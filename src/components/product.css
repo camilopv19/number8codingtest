@@ -1,0 +1,38 @@
+.product {
+  border: 1px solid gray;
+  color: gray;
+  display: block;
+  width: 100%;
+  padding: 1rem;
+  margin: 1rem;
+  border-radius: 0.5rem;
+}
+
+.name {
+  font-size: 25px;
+}
+.retail {
+  text-decoration: line-through;
+  font-size: 15px;
+  padding-left: 10px;
+}
+
+.price {
+    font-size: 20px;
+}
+.col-md-7{
+    text-align: left;
+}
+.pair {
+  block-size: auto;
+  display: flex;
+  align-items: flex-start;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  background-color: yellowgreen;
+  border: gray;
+  border-radius: 0.5rem;
+}
